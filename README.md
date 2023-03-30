@@ -21,3 +21,7 @@
 * ¿Se necesita hacer algún cambio en el protocolo, derivado del aprendizaje en este prototipo?
 
   - Al momento, el protocolo continuará con el contenido actual. No se tienen mayores cambios sin embargo, sólo se continuará agregando documentación pertinente.
+
+
+## Playtesting
+[![FirstDraftPrototype](https://i9.ytimg.com/vi/EnaAhkoUWks/mq2.jpg?sqp=CMitmKEG-oaymwEmCMACELQB8quKqQMa8AEB-AH2BYAC4AOKAgwIABABGDIgVShyMA8=&rs=AOn4CLBZkjlemZJQwJVCVWxyc4hA7mvXFQ)](https://youtu.be/EnaAhkoUWks "Primer playtesting - megaproyecto")
